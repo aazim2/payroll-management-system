@@ -1,0 +1,12 @@
+# Build output
+*.o
+*.exe
+payroll
+
+# Dev-C++ / IDE
+*.dev
+*.layout
+Makefile.win
+
+# Generated at runtime
+W2_*.txt
