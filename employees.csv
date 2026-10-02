@@ -1,0 +1,2 @@
+Type,ID,Name,BasePay,ExperienceYears,MaritalStatus,Dependents,State,City,SSN,Address,Allowances,AdditionalWithholding,AdditionalAmount,YTDGross,YTDFederal,YTDState,YTDCity,YTDSocialSecurity,YTDMedicare,HourlyRate,HoursWorked,Bonus
+HOURLY,100,Az,50,2,Singla,2,NY,NYC,2132,q3cds,2,0,0,2000,270,100,20,124,29,50,40,0
